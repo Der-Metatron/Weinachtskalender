@@ -41,12 +41,12 @@
         author: "Ernest Hemingway"
     });
     quotesArray.push({
-        text: "Zitat 4 Dummy Text",
-        author: "John Smith"
+        text: "Saufen ist besser als Rauchen.",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 5 Dummy Text",
-        author: "John Smith"
+        text: "Von draußen komme ich rein stecke deine Sachen ein.",
+        author: "Der Metatron"
     });
     quotesArray.push({
         text: "Zitat 6 Dummy Text",
@@ -66,32 +66,32 @@
         src: "/images/pictureOfDay9"
     });
     quotesArray.push({
-        text: "Zitat 10 Dummy Text",
-        author: "John Smith"
+        text: "Kommt der Weinachtsmann vorbei ist bei den Kindern groß das Geschrei.",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 11 Dummy Text",
-        author: "John Smith"
+        text: "Der baum ist schön geschmückt die Mutter macht sich schick die Kinder warten mit offenen blick.",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 12 Dummy Text",
-        author: "John Smith"
+        text: "Ein weißer Bart, ein dicker Bauch passt auf euer Schornstein auf.",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 13 Dummy Text",
-        author: "John Smith"
+        text: "Geschenke auf von Nikolaus",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 14 Dummy Text",
-        author: "John Smith"
+        text: "Wen die Weinachtsglocken bimmeln fangen wir alle an zu singen.",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 15 Dummy Text",
-        author: "John Smith"
+        text: "Leise rieselt der Schnee die Nase tut dan Weh.",
+        author: "Der Metatron"
     });
     quotesArray.push({
-        text: "Zitat 16 Dummy Text",
-        author: "John Smith"
+        text: "Ist es draußen kalt und Nass, rauchst du am besten etwas Hasch.",
+        author: "Der Metatron"
     });
     quotesArray.push({
         text: "Zitat 17 Dummy Text",
